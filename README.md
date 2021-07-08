@@ -1,5 +1,6 @@
 
 The steps for assembly the robot 
+
 1-	Put the base first 
 
 
@@ -7,11 +8,7 @@ The steps for assembly the robot
 
 
 
-
-
 2-	Put the pole 
-
-
 
 
 
@@ -34,10 +31,6 @@ The steps for assembly the robot
 
 5-	Put the second part of arm with bearing and servo
  
-
-
-
-
 
 
 
